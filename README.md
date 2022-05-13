@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **chrisreidr@gmail.com**
 
-- ⚡ Fun fact **I love cooking and traveling!**
+- ⚡ Fun fact **I love cooking, traveling, and building web-based applications!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
