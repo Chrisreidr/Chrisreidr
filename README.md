@@ -1,4 +1,6 @@
-<img style="margin-left: 500px;" src="https://user-images.githubusercontent.com/76484629/168924778-9024be3f-f4f1-4801-a4f5-97a3e216f2e0.png" />
+<p align="center">
+  <img src="[https://www.python.org/python-.png](https://user-images.githubusercontent.com/76484629/168924778-9024be3f-f4f1-4801-a4f5-97a3e216f2e0.png)">
+</p>
 <h3 align="center">A passionate Software Engineer from Orlando, FL</h3>
 
 <p align="center"> <a href="https://twitter.com/chrisreidr" target="blank"><img src="https://img.shields.io/twitter/follow/chrisreidr?logo=twitter&style=for-the-badge" alt="chrisreidr" /></a> </p>
