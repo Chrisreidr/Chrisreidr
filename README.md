@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://www.python.org/python-.png](https://user-images.githubusercontent.com/76484629/168924778-9024be3f-f4f1-4801-a4f5-97a3e216f2e0.png)">
+  <img src="https://www.python.org/python-.png](https://user-images.githubusercontent.com/76484629/168924778-9024be3f-f4f1-4801-a4f5-97a3e216f2e0.png">
 </p>
 <h3 align="center">A passionate Software Engineer from Orlando, FL</h3>
 
