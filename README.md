@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/76484629/168925504-f9372f0c-4d15-472b-98b0-533c464f2db3.png" />
+  ![Screen Shot 2022-05-18 at 10 00 30 AM](https://user-images.githubusercontent.com/76484629/169061050-fa80b409-4a06-4e7a-a650-9eaaa4b2aff1.png)
 </p>
 <h3 align="center">A passionate Software Engineer from Orlando, FL</h3>
 
