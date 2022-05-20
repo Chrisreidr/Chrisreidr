@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://chrisreidr.github.io/](https://chrisreidr.github.io/)
 
-- 💬 Ask me about **HTML5, CSS, JavaScript, OOP, React, Node**
+- 💬 Ask me about **HTML5, CSS, JavaScript, OOP, React.js, Node.js**
 
 - 📫 How to reach me **chrisreidr@gmail.com**
 
-- ⚡ Fun fact **I love cooking, traveling, and building web-based applications!**
+- ⚡ Fun fact **I love cooking, traveling, and building website / web-based applications!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
