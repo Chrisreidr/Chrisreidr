@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/76484629/169061050-fa80b409-4a06-4e7a-a650-9eaaa4b2aff1.png" />
+  <img src="https://user-images.githubusercontent.com/76484629/179612945-c4a20da9-e7eb-4b54-9d17-77c97de1f185.png" />
 </p>
 <h3 align="center">A passionate Software Engineer from Orlando, FL</h3>
 
@@ -7,7 +7,8 @@
 
 - 🔭 I’m currently working on [a lightsaber compendium](https://chrisreidr.github.io/lightsaber_compendium/)
 
-- 🌱 I’m currently learning **Full stack web development**
+- 🌱 I’m currently learning **Full stack web development**![Screen Shot 2022-07-18 at 4 29 22 PM]
+
 
 - 👨‍💻 All of my projects are available at [https://chrisreidr.github.io/](https://chrisreidr.github.io/)
 
