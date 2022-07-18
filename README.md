@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [a lightsaber compendium](https://chrisreidr.github.io/lightsaber_compendium/)
 
-- 🌱 I’m currently learning **Full stack web development**![Screen Shot 2022-07-18 at 4 29 22 PM]
+- 🌱 I’m currently learning **Full stack web development**!
 
 
 - 👨‍💻 All of my projects are available at [https://chrisreidr.github.io/](https://chrisreidr.github.io/)
